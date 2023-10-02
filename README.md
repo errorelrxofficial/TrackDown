@@ -6,8 +6,6 @@
 
 </div>
 
-This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
-
 
 [![Run on Repl.it](https://repl.it/badge/github/errorelrxofficial/TrackDown)](https://repl.it/github/errorelrxofficial/TrackDown)
  
@@ -24,7 +22,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Clone the repo using `git clone https://github.com/errorelrxofficial/TrackDown`
 1. `cd TrackDown`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [index.js](https://github.com/errorelrxofficial/TrackDown/blob/8d2b963bc96d34282589d47240a9db56b5ce79f5/index.js#L15)
+1. Replace your website URL at [index.js](https://github.com/errorelrxofficial/TrackDown/blob/7b54d49f8b5e8c148c3d47a5427b133018173ae6/index.js#L17)
 1. Run `npm install`
 1. Afterwards `npm start`
 1. Your Bot is now online.
